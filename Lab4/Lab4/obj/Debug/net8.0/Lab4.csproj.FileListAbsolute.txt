@@ -1,0 +1,17 @@
+\\wsl.localhost\Ubuntu\home\imk_fleur\dev\OOP\Lab1\Lab4\Lab4\obj\Debug\net8.0\Lab4.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\imk_fleur\dev\OOP\Lab1\Lab4\Lab4\obj\Debug\net8.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\imk_fleur\dev\OOP\Lab1\Lab4\Lab4\obj\Debug\net8.0\Lab4.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\imk_fleur\dev\OOP\Lab1\Lab4\Lab4\obj\Debug\net8.0\Lab4.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\imk_fleur\dev\OOP\Lab1\Lab4\Lab4\obj\Debug\net8.0\Lab4.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\imk_fleur\dev\OOP\Lab1\Lab4\Lab4\bin\Debug\net8.0\Lab4.exe
+\\wsl.localhost\Ubuntu\home\imk_fleur\dev\OOP\Lab1\Lab4\Lab4\bin\Debug\net8.0\Lab4.deps.json
+\\wsl.localhost\Ubuntu\home\imk_fleur\dev\OOP\Lab1\Lab4\Lab4\bin\Debug\net8.0\Lab4.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\imk_fleur\dev\OOP\Lab1\Lab4\Lab4\bin\Debug\net8.0\Lab4.dll
+\\wsl.localhost\Ubuntu\home\imk_fleur\dev\OOP\Lab1\Lab4\Lab4\bin\Debug\net8.0\Lab4.pdb
+\\wsl.localhost\Ubuntu\home\imk_fleur\dev\OOP\Lab1\Lab4\Lab4\bin\Debug\net8.0\Newtonsoft.Json.dll
+\\wsl.localhost\Ubuntu\home\imk_fleur\dev\OOP\Lab1\Lab4\Lab4\obj\Debug\net8.0\Lab4.csproj.Up2Date
+\\wsl.localhost\Ubuntu\home\imk_fleur\dev\OOP\Lab1\Lab4\Lab4\obj\Debug\net8.0\Lab4.dll
+\\wsl.localhost\Ubuntu\home\imk_fleur\dev\OOP\Lab1\Lab4\Lab4\obj\Debug\net8.0\refint\Lab4.dll
+\\wsl.localhost\Ubuntu\home\imk_fleur\dev\OOP\Lab1\Lab4\Lab4\obj\Debug\net8.0\Lab4.pdb
+\\wsl.localhost\Ubuntu\home\imk_fleur\dev\OOP\Lab1\Lab4\Lab4\obj\Debug\net8.0\Lab4.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu\home\imk_fleur\dev\OOP\Lab1\Lab4\Lab4\obj\Debug\net8.0\ref\Lab4.dll
